@@ -1,6 +1,7 @@
 body{
 background-color: crimson;
-color:rgb(44, 173, 224) crimson
+color:rgb(44, 173, 224) crimson;
+margin: 0px;
 }
 header{
 border-bottom: solid 2px blueviolet
